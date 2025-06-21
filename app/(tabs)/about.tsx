@@ -20,7 +20,7 @@ export default function About() {
           {/* Icon */}
           <View className="w-20 h-20 rounded-full bg-blue-50 justify-center items-center mb-6 overflow-hidden">
             <Image
-              source={require('../../assets/images/dingdong.jpg')}
+              source={require('../../assets/images/dingdong.png')}
               className="w-16 h-16 rounded-full"
               resizeMode="cover"
             />
