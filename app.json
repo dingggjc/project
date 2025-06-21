@@ -29,6 +29,9 @@
       "eas": {
         "projectId": "c64712f6-c9a4-4320-8ba5-a3c5e7095018"
       }
+    },
+    "android": {
+      "package": "com.dingggjc.TitaApp"
     }
   }
 }
